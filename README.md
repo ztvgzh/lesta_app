@@ -19,5 +19,5 @@
 ![4](https://github.com/ztvgzh/lesta_app/blob/master/images/4.jpg)
 6. Затем запустила docker-compose,  результат вы можете видеть на следующих скринах:
 ![5](https://github.com/ztvgzh/lesta_app/blob/master/images/5.jpg)
-![6](http://github.com/ztvgzh/lesta_app/blob/master/images/6.jpg)
+![6](https://github.com/ztvgzh/lesta_app/blob/master/images/6.jpg)
 8. Запушила изменения как **Second_task**.

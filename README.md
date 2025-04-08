@@ -9,21 +9,15 @@
 
 1. Работала через Linux ubuntu в VMware Workstation.
 2. Создала папку проекта - lesta и 3 файла: app.py, requirements.txt и Dockerfile:
-![1]()
+![1](https://github.com/ztvgzh/lesta_app/blob/master/images/1.jpg)
 3. При запуске контейнера столкнулась с проблемой "Running pip as root..", поэтому решила запустить программу в виртуальном окружении venv внутри контейнера (поэтому в докерфайле закоммечены верхние строчки).
 4. Результат виден на следующих скринах:  
-![3]()
-![4]()
+![2](https://github.com/ztvgzh/lesta_app/blob/master/images/2.jpg)
+![3](https://github.com/ztvgzh/lesta_app/blob/master/images/3.jpg)
 Успешно.
 5. Запушила проект в удаленный репозиторий как коммит **First_task** и обновила содержимое файлов для второго задания:
-![5]()
+![4](https://github.com/ztvgzh/lesta_app/blob/master/images/4.jpg)
 6. Затем запустила docker-compose,  результат вы можете видеть на следующих скринах:
-![6]()
-7. Запушила изменения как **Second_task**.
-
-
-## Contributing
-Как помочь в разработке проекта? Как отправить предложение или баг-репорт. Как отправить доработку (оформить pull request, какие стайлгайды используются). Можно вынести в отдельный файл — [Contributing.md](./CONTRIBUTING.md).
-
-## FAQ 
-Если потребители вашего кода часто задают одни и те же вопросы, добавьте ответы на них в этом разделе.
+![5](https://github.com/ztvgzh/lesta_app/blob/master/images/5.jpg)
+![6](http://github.com/ztvgzh/lesta_app/blob/master/images/6.jpg)
+8. Запушила изменения как **Second_task**.

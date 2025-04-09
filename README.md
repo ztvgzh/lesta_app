@@ -1,5 +1,5 @@
 # Flask app
-Решение технического задания от Lesta Games
+Решение теcтового задания от Lesta Games
 
 ## Технологии
 - [Python 3.9](https://hub.docker.com/_/python)
